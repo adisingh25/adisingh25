@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hello World,
 
-<!--
-**adisingh25/adisingh25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<a href="https://www.linkedin.com/in/aditya-singh-b18512200/">
+  <img align="left" alt="Aditya Singh - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+<br />
+
+I'm an Engineer by <b>choice</b>.
+<br />
+<br />
+
+Technologies:
+- C++, Javascript, Python, Java
+- Node, React, Django 
+
+<br />
+
+**KEEP SIMILING😊💙**
+
+<br />
+
+Cheers,  
+Aditya Singh  
