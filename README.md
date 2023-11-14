@@ -20,7 +20,5 @@ Technologies:
 
 **KEEP SIMILING😊💙**
 
-<br />
-
 Cheers,  
 Aditya Singh  
