@@ -13,8 +13,8 @@ I'm an Engineer by <b>choice</b>.
 <br />
 
 Technologies:
-- C++, Javascript, Python, Java
-- Node, React, Django 
+- C++, Javascript, Python, Java, TypeScript, Golang
+- Node, React, Django, Fastapi, NextJs, GoFiber
 
 <br />
 
